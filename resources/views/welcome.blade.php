@@ -175,7 +175,7 @@ body {
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="{{ asset('img/gr8.png') }}" alt="First slide">
+            <img class="first-slide" src="{{ url('img/gr8.png') }}" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Gareth Reed <span>&#126;</span> Photographer</h1>
