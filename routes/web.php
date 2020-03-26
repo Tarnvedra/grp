@@ -12,5 +12,31 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages/home');
+});
+
+Route::get('/about', function () {
+    return view('pages/about');
+});
+
+Route::get('/studio', function () {
+    return view('pages/studio');
+});
+
+Route::get('/lifestyle', function () {
+    return view('pages/lifestyle');
+});
+
+Route::get('/hair', function () {
+    return view('pages/hair');
+});
+
+Route::get('/commisiom', function () {
+    return view('pages/commision');
+});
+Route::get('/still', function () {
+    return view('pages/still');
+});
+Route::get('/humans', function () {
+    return view('pages/humans');
 });
