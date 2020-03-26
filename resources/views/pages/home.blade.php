@@ -9,7 +9,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="first-slide" src="{{ asset('img/gr11.png') }}" alt="First slide">
+          <img class="first-slide" src="img/gr11.png" alt="First slide">
           <div class="container">
             <div class="carousel-caption text-left">
               <h1>Gareth Reed  -<span></span> Photographer</h1>
@@ -19,26 +19,25 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+          <img class="second-slide" src="img/gr8.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>Gareth Reed  -<span></span> Photographer</h1>
+              <p>My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!”</p>
+             
             </div>
           </div>
         </div>
         <div class="carousel-item">
-          <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+          <img class="third-slide" src="img/gr9.png" alt="Third slide">
           <div class="container">
             <div class="carousel-caption text-right">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              <h1> Gareth Reed  -<span></span> Photographer</h1>
+              <p>I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light.</p>
+           
             </div>
           </div>
         </div>
-      </div>
       <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -49,12 +48,11 @@
       </a>
     </div>
 
-
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
-    <div class="container marketing">
+    <div class="container marketing pt-4">
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
@@ -80,12 +78,12 @@
 
 
       <!-- START THE FEATURETTES -->
-
+    
       <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Studio Portrait <span class="text-muted"></span></h2>
+          <h2 class="featurette-heading"> <span class="text-muted"></span></h2>
           <p class="lead">I am now forging a career as a hard working professional portrait photographer and am directing a motivated and hardworking people-focused brand that reflects high quality imagery and trust with a personal touch within commercial photography.</p>
         </div>
         <div class="col-md-5">
@@ -97,7 +95,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Studio Portrait<span class="text-muted"></span></h2>
+          <h2 class="featurette-heading"><span class="text-muted"></span></h2>
           <p class="lead">My photographic career to date has mainly been people intensive, working with many different people from many different backgrounds. I have worked on a national advertising campaign providing promotional images for a barber shop product supplier.</p>
         </div>
         <div class="col-md-5 order-md-1">
@@ -109,7 +107,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Me<span class="text-muted"></span></h2>
+          <h2 class="featurette-heading"><span class="text-muted"></span></h2>
           <p class="lead">“I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light. My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!”
 
           <strong> -Gareth Reed </strong></p>
