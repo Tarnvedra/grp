@@ -21,7 +21,7 @@
           <a class="nav-link" href="/hair">Hair Work</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/commisson">Commissioned Work</a>
+          <a class="nav-link" href="/commission">Commissioned Work</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/still">Still Life</a>
