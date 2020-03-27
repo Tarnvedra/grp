@@ -31,8 +31,8 @@ Route::get('/hair', function () {
     return view('pages/hair');
 });
 
-Route::get('/commisiom', function () {
-    return view('pages/commision');
+Route::get('/com', function () {
+    return view('pages/com');
 });
 Route::get('/still', function () {
     return view('pages/still');
