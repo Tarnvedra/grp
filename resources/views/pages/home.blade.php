@@ -13,7 +13,7 @@
           <div class="container">
             <div class="carousel-caption text-left">
               <h1>Gareth Reed  -<span></span> Photographer</h1>
-              <p>'I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light.</p>
+              <p>"I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light."</p>
             
             </div>
           </div>
@@ -23,7 +23,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1 >Gareth Reed  -<span></span> Photographer</h1>
-              <p>My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!”</p>
+              <p>"My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!"</p>
              
             </div>
           </div>
@@ -34,7 +34,7 @@
             <div class="carousel-caption text-right">
               <!-- added inline style due to image colouring -->
               <h1 style="color:black;"> Gareth Reed  -<span></span> Photographer</h1>
-              <p style="color:black;">I build images that inspire others through my inquisitive practise in playing with light.</p>
+              <p style="color:black;">"I build images that inspire others through my inquisitive practise in playing with light."</p>
            </div>
           </div>
         </div>
