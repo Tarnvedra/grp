@@ -32,10 +32,10 @@
           <img class="third-slide" src="img/gr9.png" alt="Third slide">
           <div class="container">
             <div class="carousel-caption text-right">
+              <!-- added inline style due to image colouring -->
               <h1 style="color:black;"> Gareth Reed  -<span></span> Photographer</h1>
               <p style="color:black;">I build images that inspire others through my inquisitive practise in playing with light.</p>
-           
-            </div>
+           </div>
           </div>
         </div>
       <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
