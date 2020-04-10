@@ -4,7 +4,7 @@
 
       <div class="jumbotron">
         <div class="col-md-7">
-          <h2 class="featurette-heading">About<span class="text-muted"></span></h2>
+          <h2>About<span class="text-muted"></span></h2>
           <hr>
           <p> I am a published portrait photographer who has always been drawn to people. I am now forging a career as a hard working professional portrait photographer and am directing a motivated and hardworking people-focused brand that reflects high quality imagery and trust with a personal touch within commercial photography.</p>
 

@@ -124,3 +124,20 @@ body {
     padding-right: 1.1rem;
     }
     }
+
+    .studiogallery {
+      margin: 10px 50px;
+  }
+  
+  .studiogallery img {
+      width: 250px;
+      height: 250px;
+      padding: 10px;
+      filter: grayscale(100);
+      transition: 1s;
+  }
+  
+  .studiogallery img:hover {
+      filter: grayscale(0);
+      transform: scale(1.1);
+  }
