@@ -35,7 +35,7 @@
                     <img src="{{ asset('images/studio9gr-tbn.jpg') }}" class="img-fluid"></a>
                     <a href="{{ asset('images/studio10gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                     <img src="{{ asset('images/studio10gr-tbn.jpg') }}" class="img-fluid"></a>
-                    <a href="{{ asset('imagesstudio11gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
+                    <a href="{{ asset('images/studio11gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                     <img src="{{ asset('images/studio11gr-tbn.jpg') }}" class="img-fluid"></a>
                     <a href="{{ asset('images/studio12gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                     <img src="{{ asset('images/studio12gr-tbn.jpg') }}" class="img-fluid"></a>
