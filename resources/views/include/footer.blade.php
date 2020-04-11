@@ -5,7 +5,7 @@
   
    <div class="col-md-6">
     <p class="float-right"><a href="#">Back to top</a></p>
-    <p>&copy; 2020 Gareth Reed  <!-- &middot;  <a href="#">Privacy</a> &middot; <a href="#">Terms</a> --> </p>
+    <p>&copy; Gareth Reed 2020 <!-- &middot;  <a href="#">Privacy</a> &middot; <a href="#">Terms</a> --> </p>
     </div> 
     <div class="col-md-6 socm">
       <a href="https://www.linkedin.com/in/gareth-reed-photographer/" class="btn btn-default"> 
