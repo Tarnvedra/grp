@@ -141,3 +141,54 @@ body {
       filter: grayscale(0);
       transform: scale(1.1);
   }
+
+  .humangallery {
+    margin: 10px 10px;
+}
+
+.humangallery img {
+    width: 400px;
+    height: 600px;
+    padding: 12px;
+    filter: grayscale(100);
+    transition: 1s;
+}
+
+.humangallery img:hover {
+    filter: grayscale(0);
+    transform: scale(1.1);
+}
+
+.stillgallery {
+  margin: 10px 10px;
+}
+
+.stillgallery img {
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+  filter: grayscale(0);
+  transition: 1s;
+}
+
+.stillgallery img:hover {
+  filter: grayscale(100);
+  transform: scale(1.1);
+}
+
+.comgallery {
+  margin: 10px 10px;
+}
+
+.comgallery img {
+  width: 400px;
+  height: 600px;
+  padding: 12px;
+  filter: grayscale(0);
+  transition: 1s;
+}
+
+.comgallery img:hover {
+  filter: grayscale(0);
+  transform: scale(1.1);
+}
