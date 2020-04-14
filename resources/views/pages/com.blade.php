@@ -13,7 +13,7 @@
     <div class="row justify-content-center">
 
         <div class="col-md-10">
-            <h4 class="featurette-heading">Horsley's of Stafford<span class="text-muted"></span></h4>
+            <h6 class="featurette-heading">Horsley's of Stafford<span class="text-muted"></span></h6>
             <div class="row pb-2">
                 <a href="{{ asset('images/com1gr.jpg') }}" data-toggle="lightbox" data-title="&copy; Gareth Reed" data-gallery="com-gallery" class="col-sm-4">
                 <img src="{{ asset('images/com1gr-tbn.jpg') }}" class="img-fluid"></a>
