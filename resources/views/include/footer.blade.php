@@ -14,7 +14,7 @@
       <i class="fab fa-facebook-square"></i></a>
       <a href="https://www.instagram.com/gareth.reed.photographer/" class="btn btn-default">
       <i class="fab fa-instagram-square"></i></a>
-      <a href="https://twitter.com/GarethReed_BA" class="btn btn-default">
+      <a href="https://twitter.com/GarethReed14" class="btn btn-default">
       <i class="fab fa-twitter-square"></i></a>
     </div>
   </footer>

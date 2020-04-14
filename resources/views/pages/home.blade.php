@@ -108,9 +108,9 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading"><span class="text-muted"></span></h2>
-          <p class="lead">“I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light. My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!”
+          <p class="lead"><i>“I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light. My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!”</i>
 
-          <strong> -Gareth Reed </strong></p>
+          <strong> - Gareth Reed </strong></p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="{{ asset('images/gr6.png') }}" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
