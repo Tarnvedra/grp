@@ -7,34 +7,33 @@
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
       </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="first-slide" src="{{ asset('images/gr11.png') }}" alt="First slide">
-          <div class="container">
-            <div class="carousel-caption text-left">
-              <h1>Gareth Reed  -<span></span> Photographer</h1>
-              <p>"I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light."</p>
+               <div class="carousel-inner">
+                     <div class="carousel-item active">
+                           <img class="first-slide img-fluid" src="{{ asset('images/gr11.png') }}" alt="First slide">
+                   <div class="container">
+                      <div class="carousel-caption text-left">
+                          <h1 class="desktop">Gareth Reed  -<span></span> Photographer</h1>
+                         <p class="desktop">"I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light."</p>
             
+                      </div>
+                 </div>
+              </div>
+               <div class="carousel-item">
+                     <img class="second-slide img-fluid" src="{{ asset('images/gr8.png') }}" alt="Second slide">
+                    <div class="container">
+                <div class="carousel-caption">
+                    <h1 class="desktop">Gareth Reed  -<span></span> Photographer</h1>
+                      <p class="desktop">"My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!"</p>
+               </div>
+              </div>
             </div>
-          </div>
-        </div>
         <div class="carousel-item">
-          <img class="second-slide" src="{{ asset('images/gr8.png') }}" alt="Second slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1 >Gareth Reed  -<span></span> Photographer</h1>
-              <p>"My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!"</p>
-             
-            </div>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="third-slide" src="{{ asset('images/gr9.png') }}" alt="Third slide">
+          <img class="third-slide img-fluid" src="{{ asset('images/gr9.png') }}" alt="Third slide">
           <div class="container">
             <div class="carousel-caption text-right">
               <!-- added inline style due to image colouring -->
-              <h1 style="color:black;"> Gareth Reed  -<span></span> Photographer</h1>
-              <p style="color:black;">"I build images that inspire others through my inquisitive practise in playing with light."</p>
+              <h1 class="desktop" style="color:black;"> Gareth Reed  -<span></span> Photographer</h1>
+              <p class="desktop" style="color:black;">"I build images that inspire others through my inquisitive practise in playing with light."</p>
            </div>
           </div>
         </div>
@@ -120,6 +119,5 @@
       
 
       <!-- /END THE FEATURETTES -->
-
-    </div>
-    @endsection
+</div>
+@endsection
