@@ -14,7 +14,7 @@
                       <div class="carousel-caption text-left">
                           <h1 class="desktop">Gareth Reed  -<span></span> Photographer</h1>
                          <p class="desktop">"I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light."</p>
-            
+
                       </div>
                  </div>
               </div>
@@ -46,7 +46,7 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-
+</div>
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -77,7 +77,7 @@
 
 
       <!-- START THE FEATURETTES -->
-    
+
       <hr class="featurette-divider">
 
       <div class="row featurette">
@@ -110,14 +110,19 @@
           <p class="lead"><i>“I am an image engineer, I build images that evoke, arouse and inspire others through my inquisitive practise in playing with light. My strong passion for people and the portrait genre drives me to achieve my best possible image every time and I enjoy every second of it!”</i>
 
           <strong> - Gareth Reed </strong></p>
+          <a class="btn btn-success" href="mailto:info@garethreed.com" target="_blank"><i class="fas fa-2x fa-id-card-alt"></i> Work With Me</a>
+          <a class="btn btn-info" href="https://goo.gl/maps/u7DTH7Eg5sLpNRMf6" target="_blank" ><i class="fas fa-2x fa-map-marker-alt"></i> Map to Studio</a>
         </div>
-        <div class="col-md-5">
+        <div class="col-md-5 pb-5">
           <img class="featurette-image img-fluid mx-auto" src="{{ asset('images/gr6.png') }}" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
         </div>
+
       </div>
 
-      
+
 
       <!-- /END THE FEATURETTES -->
 </div>
+
+
 @endsection
