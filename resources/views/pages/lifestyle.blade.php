@@ -8,7 +8,7 @@
         <h2 class="featurette-heading">Editorial/Lifestyle Portraits<span class="text-muted"></span></h2>
         <hr>
   </div>
- 
+
   <div class="studiogallery">
     <div class="row justify-content-center">
 
@@ -20,7 +20,7 @@
                <img src="{{ asset('images/life2gr-tbn.jpg') }}" class="img-fluid"></a>
                <a href="{{ asset('images/life3gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                <img src="{{ asset('images/life3gr-tbn.jpg') }}" class="img-fluid"></a>
-               <a href="{{ asset('images/life44gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
+               <a href="{{ asset('images/life4gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                <img src="{{ asset('images/life4gr-tbn.jpg') }}" class="img-fluid"></a>
                <a href="{{ asset('images/life5gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                <img src="{{ asset('images/life5gr-tbn.jpg') }}" class="img-fluid"></a>
@@ -92,7 +92,7 @@
                    <a href="{{ asset('images/studio30gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                    <img src="{{ asset('images/studio30gr-tbn.jpg') }}" class="img-fluid"></a>
                </div>
-              
+
            </div>
        </div>
    </div> --->
