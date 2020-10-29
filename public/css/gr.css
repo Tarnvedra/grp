@@ -157,12 +157,12 @@ body {
       width: 250px;
       height: 250px;
       padding: 10px;
-      filter: grayscale(100);
+      filter: grayscale(0);
       transition: 1s;
   }
 
   .studiogallery img:hover {
-      filter: grayscale(0);
+      filter: grayscale(100);
       transform: scale(1.1);
   }
 
@@ -174,12 +174,12 @@ body {
     width: 400px;
     height: 600px;
     padding: 12px;
-    filter: grayscale(100);
+    filter: grayscale(0);
     transition: 1s;
 }
 
 .humangallery img:hover {
-    filter: grayscale(0);
+    filter: grayscale(100);
     transform: scale(1.1);
 }
 
@@ -213,7 +213,7 @@ body {
 }
 
 .comgallery img:hover {
-  filter: grayscale(0);
+  filter: grayscale(100);
   transform: scale(1.1);
 }
 
