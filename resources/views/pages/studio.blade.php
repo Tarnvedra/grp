@@ -1,16 +1,16 @@
 @extends('welcome')
 
 @section('content')
-      <div class="jumbotron">
+      <div class="jumbotron bg-light">
         <div class="col-md-8">
             <h2 class="featurette-heading">Studio Portraits<span class="text-muted"></span></h2>
             <hr>
       </div>
-     
-  
+
+
    <div class="studiogallery">
          <div class="row justify-content-center">
-     
+
             <div class="col-md-8">
                 <div class="row pb-2">
                     <a href="{{ asset('images/studio1gr.jpg') }}" data-toggle="lightbox" data-title="&copy; Gareth Reed" data-gallery="studio-gallery" class="col-sm-2">
@@ -91,7 +91,7 @@
                         <a href="{{ asset('images/studio30gr.jpg') }}" data-toggle="lightbox" data-gallery="studio-gallery" class="col-sm-2">
                         <img src="{{ asset('images/studio30gr-tbn.jpg') }}" class="img-fluid"></a>
                     </div>
-                   
+
                 </div>
             </div>
         </div>

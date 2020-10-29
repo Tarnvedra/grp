@@ -2,12 +2,12 @@
 
 @section('content')
 
-<div class="jumbotron">
+<div class="jumbotron bg-light">
     <div class="col-md-8">
         <h2 class="featurette-heading">Still Life<span class="text-muted"></span></h2>
         <hr>
   </div>
- 
+
   <div class="stillgallery">
     <div class="row justify-content-center">
 
@@ -34,6 +34,6 @@
     </div>
 <p class="row justify-content-center pt-3"> All images &copy; Gareth Reed </p>
 </div>
-     
+
 
   @endsection

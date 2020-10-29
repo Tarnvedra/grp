@@ -2,12 +2,12 @@
 
 @section('content')
 
-<div class="jumbotron">
+<div class="jumbotron bg-light">
     <div class="col-md-8">
         <h2 class="featurette-heading">Commissioned Work<span class="text-muted"></span></h2>
         <hr>
   </div>
- 
+
 
   <div class="comgallery">
     <div class="row justify-content-center">
@@ -29,7 +29,7 @@
                 <a href="{{ asset('images/com5gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
                 <img src="{{ asset('images/com5gr-tbn.jpg') }}" class="img-fluid"></a>
 
-                
+
             </div>
 
             <div class="col-md-10">
@@ -42,7 +42,7 @@
                     <a href="{{ asset('images/com8gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
                     <img src="{{ asset('images/com8gr-tbn.jpg') }}" class="img-fluid"></a>
                   </div>
-    
+
                 <div class="row pb-2">
                     <a href="{{ asset('images/com9gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
                         <img src="{{ asset('images/com9gr-tbn.jpg') }}" class="img-fluid"></a>
@@ -95,7 +95,7 @@
                     <img src="{{ asset('images/com24gr-tbn.jpg') }}" class="img-fluid"></a>
             </div>  <div class="row pb-2">
 
-                <a href="{{ asset('images/com125gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
+                <a href="{{ asset('images/com25gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
                 <img src="{{ asset('images/com25gr-tbn.jpg') }}" class="img-fluid"></a>
                 <a href="{{ asset('images/com26gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
                 <img src="{{ asset('images/com26gr-tbn.jpg') }}" class="img-fluid"></a>
@@ -113,7 +113,7 @@
             </div>
          <div class="row pb-2">
 
-            <a href="{{ asset('images/com131gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
+            <a href="{{ asset('images/com31gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
             <img src="{{ asset('images/com31gr-tbn.jpg') }}" class="img-fluid"></a>
             <a href="{{ asset('images/com32gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
             <img src="{{ asset('images/com32gr-tbn.jpg') }}" class="img-fluid"></a>
@@ -129,14 +129,14 @@
                 <a href="{{ asset('images/com36gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
                 <img src="{{ asset('images/com36gr-tbn.jpg') }}" class="img-fluid"></a>
         </div>
-    
+
     <div class="row pb-2">
 
-        <a href="{{ asset('images/com137gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
+        <a href="{{ asset('images/com37gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
         <img src="{{ asset('images/com37gr-tbn.jpg') }}" class="img-fluid"></a>
         <a href="{{ asset('images/com38gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
         <img src="{{ asset('images/com38gr-tbn.jpg') }}" class="img-fluid"></a>
-       
+
       </div>
 
 
@@ -147,14 +147,14 @@
             <img src="{{ asset('images/com39gr-tbn.jpg') }}" class="img-fluid"></a>
             <a href="{{ asset('images/com40gr.jpg') }}" data-toggle="lightbox" data-gallery="com-gallery" class="col-sm-4">
             <img src="{{ asset('images/com40gr-tbn.jpg') }}" class="img-fluid"></a>
-           
+
           </div>
 
-       
+
     </div>
         </div>
     </div>
-  
+
 </div>
 <p class="row justify-content-center pt-3"> All images &copy; Gareth Reed </p>
   @endsection

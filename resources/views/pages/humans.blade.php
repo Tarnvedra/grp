@@ -2,12 +2,12 @@
 
 @section('content')
 
-<div class="jumbotron">
+<div class="jumbotron bg-light">
     <div class="col-md-8">
         <h2 class="featurette-heading">Humans of Stafford Project<span class="text-muted"></span></h2>
         <hr>
   </div>
- 
+
     <div class="humangallery">
             <div class="row justify-content-center">
 
@@ -71,7 +71,7 @@
                         <img src="{{ asset('images/human19gr-tbn.jpg') }}" class="img-fluid"></a>
                         <a href="{{ asset('images/human20gr.jpg') }}" data-toggle="lightbox" data-gallery="human-gallery" class="col-sm-4">
                         <img src="{{ asset('images/human20gr-tbn.jpg') }}" class="img-fluid"></a>
-                      
+
                     </div>
                 </div>
             </div>
