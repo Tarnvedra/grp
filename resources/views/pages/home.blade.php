@@ -9,7 +9,7 @@
       </ol>
                <div class="carousel-inner">
                      <div class="carousel-item active">
-                           <img class="first-slide img-fluid" src="{{ asset('images/gr11.png') }}" alt="First slide">
+                           <img class="first-slide img-fluid" src="{{ asset('images/gr9.png') }}" alt="First slide">
                    <div class="container">
                       <div class="carousel-caption text-left">
                           <h1 class="desktop">Gareth Reed  -<span></span> Photographer</h1>
@@ -28,7 +28,7 @@
               </div>
             </div>
         <div class="carousel-item">
-          <img class="third-slide img-fluid" src="{{ asset('images/gr9.png') }}" alt="Third slide">
+          <img class="third-slide img-fluid" src="{{ asset('images/com31gr.jpg') }}" alt="Third slide">
           <div class="container">
             <div class="carousel-caption text-right">
               <!-- added inline style due to image colouring -->
@@ -68,7 +68,7 @@
          <!-- <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="rounded-circle" src="{{ asset('images/gr14.png') }}" alt="Generic placeholder image" width="200" height="200">
+          <img class="rounded-circle" src="{{ asset('images/life3gr-tbn.jpg') }}" alt="Generic placeholder image" width="200" height="200">
           <!-- <h2>Heading</h2> -->
           <p class="pt-2">Photography has taken me on journeys to London, Paris and New York</p>
           <!-- <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> -->
@@ -83,7 +83,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading"> <span class="text-muted"></span></h2>
-          <p class="lead">I am now forging a career as a hard working professional portrait photographer and am directing a motivated and hardworking people-focused brand that reflects high quality imagery and trust with a personal touch within commercial photography.</p>
+          <p class="lead">I am now forging a career as a hard working professional portrait photographer whilst directing a motivated and hardworking people-focused brand that reflects high quality imagery and trust with a personal touch within commercial photography.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="{{ asset('images/gr4.png') }}" data-src="holder.js/500x500/aut" alt="Generic placeholder image">

@@ -34,7 +34,6 @@
 
     <script src="https://kit.fontawesome.com/5d573eda56.js" crossorigin="anonymous"></script>
     <script src="{{ asset('js/lightbox.min.js') }}"></script>
-
     <script src="{{ asset('js/gr.js') }}"></script>
 
     </body>

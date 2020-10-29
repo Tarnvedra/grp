@@ -2,6 +2,7 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
+  height:95vh;
 }
 
 .socm i{
@@ -18,7 +19,7 @@ body {
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  bottom: 3rem;
+  bottom: 10rem;
   z-index: 10;
 }
 
@@ -44,11 +45,16 @@ body {
   height: auto;
 }
 
-@media screen and (max-width: 700px)
+@media screen and (min-width: 200px) and (max-width: 767px)
 {
 .desktop {
   display: none;
 }
+
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
 }
 
 .desktop {
@@ -213,6 +219,13 @@ body {
 
 footer {
 
-    margin-bottom: 0;
-    padding-bottom: 0;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+
+    margin: 0px;
+    padding: 0px;
 }
