@@ -12,7 +12,7 @@
   <div class="col-md-3">
     <p class="justify-content-left" style="color:white;" ><a class="btn btn-dark" href="mailto:info@garethreed.com"><i class="fa fa-envelope"></i> Email: info@garethreed.com</a> </p>
 </div>
-    <div class="col-md-3 socm">
+    <div class="col-md-3 socm pt-2">
       <a href="https://www.linkedin.com/in/gareth-reed-photographer/" class="btn btn-primary">
       <i class="fab fa-linkedin"></i></a>
       <a href="https://www.facebook.com/gareth.reed.9674" class="btn btn-primary">
